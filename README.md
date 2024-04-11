@@ -32,7 +32,8 @@ We focus on population-wide omics datasets. By curating these existing datasets,
 ### Maize off-PVP lines (PVP, n=x lines)
 
 
-### Chinese Elite Inbreds (CEI, n=500 lines)
+### Chinese Elite Inbreds (CEI, n=300 lines)
+### Some big data were stored at OneDrive (https://uofnelincoln-my.sharepoint.com/:f:/g/personal/gxu6_unl_edu/EuJn6RPpm-FKuU9FKNs9Qg8Bpk_r52zMLq8WbqxNDgeqSQ?e=t9G35u).
 
 ## Sorghum
 
