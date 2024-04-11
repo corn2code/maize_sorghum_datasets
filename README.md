@@ -8,20 +8,30 @@ We focus on population-wide omics datasets. By curating these existing datasets,
 
 ### Genome annotation data
 
-### Maize Association Panel (MAP, n=300 lines)
+### Maize Association Panel (MAP, n=282 lines, aka 282 panel)
 
 - Genotype: Whole genome sequencing (>10 M SNPs)
-  - V5 genome filteration MAF < 0.05 and MR > 0.6: `vcf` (Bukowski et al., 2018)
+  - Raw sequencing data (Bukowski et al., 2018)
+  - Row VCF file on HCC: `path?`
+    - AGPV5 genome filtration MAF < 0.05 and MR > 0.6: `vcf` 
+  - Randomly sampled 50k SNPs
+    - `data/01Genotype/282_agpv5_50.recode.vcf`
+    - `data/01Genotype/282_agpv5_50k.txt`
 - RNA-seq
   - RNA-seq in seven tissues: CyVerse (Kremling et al., 2018)
+  - Root RNA-seq?
+    - Raw data?
+    - Process version?
 - Microbiome
-  - under high N and low N conditions (n=230 gentoypes x 2 N x 2 reps) (Meier et al., 2022)
+  - Under high N and low N conditions (n=230 gentoypes x 2 N x 2 reps) (Meier et al., 2022)
 - Root exudates
-  - collected using GC-MS method 
+  - Collected using GC-MS method? 
 - Metabolomics
-  - From seedling tissue with three replications (unpublished)
+  - From seedling tissue with three replications (Z. Yang et al., 2022)
 - Aboveground phenotypes
-  - More than 50 traits BLUP values
+  - More than 50 traits BLUP values 
+    - `data/03Phenotype/MAP/public_pheno_282_37traits.xlsx`
+    - `data/03Phenotype/MAP/public_pheno_282_mineral_ziegler.xlxs`
   - Six ear-related traits under different N conditions
 - Belowground Phenotypes
   - NA
