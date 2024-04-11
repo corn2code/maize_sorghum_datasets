@@ -15,7 +15,7 @@ We focus on population-wide omics datasets. By curating these existing datasets,
   - Row VCF file on HCC: `path?`
     - AGPV5 genome filtration MAF < 0.05 and MR > 0.6: `vcf` 
   - Randomly sampled 50k SNPs
-    - `data/01Genotype/282_agpv5_50.recode.vcf`
+    - GitHub Path: `data/01Genotype/282_agpv5_50.recode.vcf`
     - `data/01Genotype/282_agpv5_50k.txt`
 - RNA-seq
   - RNA-seq in seven tissues: CyVerse (Kremling et al., 2018)
