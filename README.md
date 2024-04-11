@@ -4,7 +4,8 @@
 
 We focus on population-wide omics datasets. By curating these existing datasets, we can ensure the development of robust computational models.
 
-## Maize
+-----------------------
+# Maize
 
 ### Genome annotation data
 
@@ -44,7 +45,8 @@ We focus on population-wide omics datasets. By curating these existing datasets,
 
 ### Chinese Elite Inbreds (CEI, n=500 lines)
 
-## Sorghum
+-----------------------
+# Sorghum
 
 ### Sorghum Association Panel (SAP, n=400 lines)
 
