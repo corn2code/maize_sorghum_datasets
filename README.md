@@ -55,7 +55,7 @@ Some big data were stored at [OneDrive](https://uofnelincoln-my.sharepoint.com/:
   - Whole genome resequencing (WGS) data ([Boatwright et al., 2022](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.15853))
     - 44 milion variants including 38 million SNPs, 5 million indels and 0.17 million CNVs
     - Filteration: minor allele frequency (maf) > 0.05, missing data < 0.3, ite heterozygosity < 0.1
-    - Raw and filtered data on HCC Path `/common/schnablelab/hongyujin/SAPsnp/SNPallchrs/`
+    - Raw and filtered data on HCC Path `HCC: /common/schnablelab/hongyujin/SAPsnp/SNPallchrs/`
       - see filteration details:
   - Tunable genotyping by sequencing (tGBS) ~350 lines ([Miao et al., 2020](https://academic.oup.com/plphys/article/183/4/1898/6118529))
     - Data on [Figshare](https://figshare.com/articles/dataset/Untitled_Item/11462469) 
