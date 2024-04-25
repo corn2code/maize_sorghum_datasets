@@ -71,7 +71,8 @@ Some big data were stored at [OneDrive](https://uofnelincoln-my.sharepoint.com/:
   - Panicle phenotype
     - Kyle Linders thesis?
     - Nathan
-  - RNA-seq
+
+- #### RNA-seq
   
 ### Sorghum Carbon-Partitioning NAM (CP-NAM, n=2,500 RILs)
 
