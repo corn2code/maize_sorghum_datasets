@@ -51,6 +51,8 @@ Some big data were stored at [OneDrive](https://uofnelincoln-my.sharepoint.com/:
 # Sorghum
 
 ### Sorghum Association Panel (SAP, n=400 lines)
+- #### Raw sequence data
+  - label corrected fq files `HCC: /work/jyanglab/SAP_raw_fq/`   
 - #### Genotype
   - Whole genome resequencing (WGS) data ([Boatwright et al., 2022](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.15853))
     - 44 milion variants including 38 million SNPs, 5 million indels and 0.17 million CNVs
