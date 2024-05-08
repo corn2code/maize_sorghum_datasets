@@ -64,8 +64,10 @@ Some big data were stored at [OneDrive](https://uofnelincoln-my.sharepoint.com/:
 - #### Phenotype
   - In field agronomic traits
     - github path `data/03Phenotype/SAP/`
-    - 2020 SAP Schnable lab
-    - 2021 SbDiv Schnable lab
+    - 2020 SAP Schnable lab (Sorghum Asscoiation panel):
+      - The 2020 field experiment was planted on June 8. Experimental plot consisted of one 1.52-m row of plants from a single genotype planted with a spacing of 0.76 m between parallel and sequential rows and approximately 7.62 cm in spacing between sequential plants in the same row. No supplemental nitrogen was applied to low-nitrogen treatment blocks, and a target of 80 pounds of N per acre (89.7 kilograms/hectare) was applied to sufficient nitrogen blocks. The 2020 experiment was conducted in a field located at N&deg;40.861, W&deg;96.598. The 2020 experiment consisted of 347 genotypes drawn from the sorghum association panel plus Tx430. A total of four blocks were planted, each consisting of 390 plots with one entry per genotype, plus BTx623 as a repeated check. Two blocks were grown under HN treatment and two under LN treatment.
+    - 2021 SbDiv Schnable lab (Sorghum Diversity Panel)
+      - The 2021 field experiment was planted on May 25. Experimental plot consisted of one 1.52-m row of plants from a single genotype planted with a spacing of 0.76 m between parallel and sequential rows and approximately 7.62 cm in spacing between sequential plants in the same row. No supplemental nitrogen was applied to low-nitrogen treatment blocks, and a target of 80 pounds of N per acre (89.7 kilograms/hectare) was applied to sufficient nitrogen blocks. The 2021 experiment was conducted in a field located at N&deg;40.858, W&deg;96.596. The 2021 experiment consisted of 347 genotypes replicated in two blocks, each consisting of 390 plots including the replicated check, under LN conditions as in 2020 and 911 sorghum genotypes in two blocks, each consisting of 966 plots including the replicated check under HN. The larger population in HN treatment resulted from the inclusion of sorghum genotypes from the sorghum diversity panel in addition to the previously characterized sorghum association panel (SAP) lines.
     - 2023 SAP Chlorophyll (by Luyang Zhang)
   - Greenhouse seedling phenotype
     - 346 lines HN and LH
