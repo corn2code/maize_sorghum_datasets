@@ -77,6 +77,12 @@ Some big data were stored at [OneDrive](https://uofnelincoln-my.sharepoint.com/:
     - Nathan
 
 - #### RNA-seq
+- SNPs called through GATK and gene expression normalized as Transcripts per million (TPM) are deposited at [OneDrive](https://uofnelincoln-my.sharepoint.com/:f:/g/personal/gxu6_unl_edu/EuJn6RPpm-FKuU9FKNs9Qg8Bpk_r52zMLq8WbqxNDgeqSQ?e=t9G35u).
+  - Measurements of plant traits and tissue samples for gene expression were collected from a field experiment conducted at the University of Nebraska-Lincoln Havelock Research Farm in Lincoln, NE (40.859, -96.597) in 2021. 
+The field consisted of a total of 1,936 plots split into two blocks of 968 plots.
+Each block included single entries of 915 genotypes, four extra replications of TX430, and 51 plots of BTx623 as a replicated check. Each plot consistent of a 5 foot rows of plants, 2.5 alleyways, target spacing of 3 inches between plants, 
+and 30 inch (approximately 0.75 meter) spacing between parallel and sequential rows. The field was treated with anhydrous ammonia fertilizer at a target rate of rate of 80 pounds of N per acre (approximately 89 kilograms per hectare). Planting occurred on May 25th, 2021.
+  - Leaf tissue samples were collected on August 5th, 2021, with sampling beginning at 10:00am and ending at 12:00noon. For each plot, a single representative plant was selected for sampling, avoiding edge plants where possible. Samples were collected from the fourth leaf, counting downwards from the uppermost fully expanded leaf, or the flag leaf, if present. Leaf tissue samples were immediately flash frozen in liquid nitrogen and then transferred to dry ice for transport. Leaf tissue samples were continuously stored either in -80 freezers or on dry ice until RNA extraction commenced. 
   
 ### Sorghum Carbon-Partitioning NAM (CP-NAM, n=2,500 RILs)
 
